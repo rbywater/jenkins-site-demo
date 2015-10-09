@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! - Jenkins edition"
 date:   2015-10-09 12:54:36
 categories: jekyll update
 ---
